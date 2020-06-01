@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MiddleExam</string>
+    <string-array name="themes">
+        <item>봄</item>
+        <item>여름</item>
+        <item>가을</item>
+        <item>겨울</item>
+        <item>눈송이</item>
+        <item>빗방울</item>
+        <item>일기</item>
+        <item>우박</item>
+        <item>구름</item>
+        <item>달</item>
+        <item>아지랑이</item>
+        <item>음악</item>
+        <item>밤하늘</item>
+        <item>새벽</item>
+        <item>계곡</item>
+        <item>불빛</item>
+        <item>생각</item>
+        <item>기다림</item>
+        <item>취미</item>
+        <item>백지</item>
+        <item>만남</item>
+        <item>이별</item>
+        <item>음식</item>
+        <item>소리</item>
+    </string-array>
+</resources>
